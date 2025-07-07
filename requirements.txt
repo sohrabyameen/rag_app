@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-pinecone
+pinecone-client
+transformers
+torch
+google-api-python-client
+PyPDF2
+tiktoken
