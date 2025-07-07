@@ -1,0 +1,2 @@
+<name_of_your_index>
+<pinecone_api_key>
